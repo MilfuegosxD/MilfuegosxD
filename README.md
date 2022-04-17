@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @MilfuegosxD
-- 👀 Hablo español
-- 🌱 Soy re malo con el inglés pero estoy aprendiendo, y ahora estoy aprendiendo python
+# MilfuegosxD
+- 🔹 Hola, Soy @MilfuegosxD
+- 🔹 Me gusta trabajar mis proyectos en python
+- 🔹 Actualmente estoy aprendiendo C++, Javascript, HTML5 y CSS.
+- 🔹 Me gustan los gatos
 
 <!---
 MilfuegosxD/MilfuegosxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
