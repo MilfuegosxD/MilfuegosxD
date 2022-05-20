@@ -1,7 +1,7 @@
 # MilfuegosxD
 - 🔹 Hola, Soy @MilfuegosxD
 - 🔹 Me gusta trabajar mis proyectos en python
-- 🔹 Actualmente estoy aprendiendo C++, Javascript, HTML5 y CSS.
+- 🔹 Actualmente estoy aprendiendo C++.
 - 🔹 Me gustan los gatos
 
 <!---
